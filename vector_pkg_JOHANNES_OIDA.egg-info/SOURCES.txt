@@ -1,0 +1,8 @@
+README.md
+setup.py
+vector_pkg/__init__.py
+vector_pkg/vector.py
+vector_pkg_JOHANNES_OIDA.egg-info/PKG-INFO
+vector_pkg_JOHANNES_OIDA.egg-info/SOURCES.txt
+vector_pkg_JOHANNES_OIDA.egg-info/dependency_links.txt
+vector_pkg_JOHANNES_OIDA.egg-info/top_level.txt

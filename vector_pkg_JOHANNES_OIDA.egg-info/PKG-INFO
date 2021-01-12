@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: vector-pkg-JOHANNES-OIDA
+Version: 0.0.1
+Summary: Des is a vektor package. hoff ma es funktioniert. bam oida.
+Home-page: https://github.com/pypa/sampleproject
+Author: Johannes
+Author-email: jgerwinat.uni@gmail.com
+License: UNKNOWN
+Description: # Vector Package
+        
+        ja ok meine lieben, das soll eine ausführliche beschreibung vom package sein.
+        in wirklichkeit gibts aber net viel zu sagen, außer dass es sich hier um ein package handelt, mit dem man vektoren erstellt.
+        bam oida.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
